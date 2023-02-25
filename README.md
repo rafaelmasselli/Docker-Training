@@ -1,6 +1,10 @@
 <h1 align="center">Formação em docker e Kubernetes</h1>
 
-![exemplo de como funciona o docker](./.github/docker-exemple.png)
+<div align="center">
+
+  <img src="./.github/docker-exemple.png" alt="exemplo de como funciona o docker"/>
+
+</div>
 
 ### O que e docker?
 
@@ -12,7 +16,11 @@
 
 ### O que e Cluster?
 
-![Oque e clusters](./.github/cluster-exemple.jpg)
+<div align="center">
+
+  <img src="./.github/cluster-exemple.jpg" alt="Oque e clusters"/>
+
+</div>
 
 #### Um cluster consiste em computadores fracamente ou fortemente ligados que trabalham em conjunto, de modo que, em muitos aspectos, podem ser considerados como um único sistema
 
